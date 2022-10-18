@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# When run in the holbertonschool container this command starts the apache2 server
+service apache2 start
